@@ -1,0 +1,8 @@
+narri, ui/ux
+over-writeounting
+lakshay, business
+golu, marketing
+annu, frontend
+manu, full-stack
+goger, budget-analyst
+goger, budget-analyst
