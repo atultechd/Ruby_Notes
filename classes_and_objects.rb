@@ -6,7 +6,7 @@ class Book
 end
 
 # now we are making objects of Book class
-# objects are instances of class
+# These objects are instances of class
 book1 = Book.new()
 book1.title = "Rich dad poor dad"
 book1.author = "Robert Kyoski"

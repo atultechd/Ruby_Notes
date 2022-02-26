@@ -1,4 +1,5 @@
 # if we don't write "return" then if will simply return last line
+# just like here we don't metion return so it will give us 30 instead of num^3
 def cube(num)
   num*num*num
   30

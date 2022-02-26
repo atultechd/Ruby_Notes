@@ -1,15 +1,21 @@
 # simply prints 2
 puts 2
+
 # prints 9 by adding 4+5
 puts 4+5
+
 # prints 4 by subtracting 5-1
 puts 5-1
+
 # prints 32 by multiplying 4*8
 puts 4*8
+
 # prints 4 by dividing 8/2
 puts 8/2
+
 # prints 8 by exponent 2^3
 puts 2**3
+
 # prints 1 as remainder of 10%3
 puts 10%3
 

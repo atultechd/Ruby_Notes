@@ -1,5 +1,5 @@
 
-# again we are just making simple by creating a initialize method in class
+# again we are just making simple by creating an initialize method in class
 # which will help to create new objects whenever called and to save space
 class Book
   attr_accessor :title, :author, :pages

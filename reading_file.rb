@@ -6,5 +6,5 @@ end
 file.close()
   
 # To read first character use
-  # puts file.readchar() 
+  puts file.readchar() 
   
